@@ -2,5 +2,23 @@
   "dependencies": {
     "seed": "^0.4.4",
     "seeds": "^2.3.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "e-commerce-back-end",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahmud-deep/E-commerce-Back-End.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahmud-deep/E-commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/Mahmud-deep/E-commerce-Back-End#readme"
 }
