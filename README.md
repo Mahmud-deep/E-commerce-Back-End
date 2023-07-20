@@ -27,6 +27,12 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # Links
 
+https://github.com/Mahmud-deep/E-commerce-Back-End
+
+https://mahmud-deep.github.io/E-commerce-Back-End/
+
+https://drive.google.com/file/d/1cidbMnKGl9ADf5ZQEDExSQWJSsS34y1x/view
+
 
 # Review
 
